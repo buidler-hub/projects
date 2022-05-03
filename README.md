@@ -10,6 +10,8 @@ List of all the projects built by the team of buidler's hub.
 
 **GitHub**: https://github.com/avneesh0612/react-nextjs-snippets
 
+**Marketplace**: https://marketplace.visualstudio.com/items?itemName=AvneeshAgarwal.react-nextjs-snippets
+
 ---
 
 ### 2. React and Next.js Snippets Atom
@@ -19,6 +21,8 @@ List of all the projects built by the team of buidler's hub.
 **Website**: https://www.react-next-snippets.co
 
 **GitHub**: https://github.com/avneesh0612/react-next.js-snippets-atom
+
+**Marketplace**: https://atom.io/packages/react-nextjs-snippets
 
 ---
 
@@ -30,7 +34,7 @@ List of all the projects built by the team of buidler's hub.
 
 **GitHub**: https://github.com/avneesh0612/thirdsnips
 
----
+**Marketplace**: https://marketplace.visualstudio.com/items?itemName=avneeshagarwal.thirdweb-snippets
 
 ### 4. faucetli
 
