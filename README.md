@@ -66,3 +66,29 @@ List of all the projects built by the team of buidler's hub.
 **NPM**: https://www.npmjs.com/package/snipli
 
 **ProductHunt**: https://www.producthunt.com/posts/snipli
+
+### 5. Rayli
+
+![rayli](https://user-images.githubusercontent.com/77309809/169698868-e4ffc47a-b348-49f8-a22a-5d6b74b10e05.png)
+
+📸 Generate images of your code right from the terminal 
+
+**GitHub**: https://github.com/buidler-hub/rayli
+
+**NPM**: https://www.npmjs.com/package/rayli
+
+**ProductHunt**: https://www.producthunt.com/posts/rayli
+
+### 6. NFTank
+
+![nftank](https://user-images.githubusercontent.com/77309809/169699021-c7c1f672-1eee-46a4-8e98-316e5128e3fc.png)
+
+✨ Mint NFTs to an address within a snap, available as website and cli tool
+
+**Website**: https://nftank.xyz/
+
+**GitHub**: https://github.com/buidler-hub/nftank
+
+**NPM**: https://www.npmjs.com/package/rayli
+
+**ProductHunt**: https://www.producthunt.com/posts/nftank
