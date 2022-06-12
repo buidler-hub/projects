@@ -89,6 +89,18 @@ List of all the projects built by the team of buidler's hub.
 
 **GitHub**: https://github.com/buidler-hub/nftank
 
-**NPM**: https://www.npmjs.com/package/rayli
+**NPM**: https://www.npmjs.com/package/nftank
 
 **ProductHunt**: https://www.producthunt.com/posts/nftank
+
+### 7. Clydomint
+
+![Clydomint](https://user-images.githubusercontent.com/76690419/173215039-78212aee-7fea-4b31-888d-eb8e9ad3b9e0.png)
+
+🚀 Mint NFTs through Clydomint, right from Discord in a snap!
+
+**Website**: https://www.clydomint.xyz/
+
+**GitHub**: https://github.com/buidler-hub/clydomint
+
+**ProductHunt**: https://www.producthunt.com/posts/clydomint
